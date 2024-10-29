@@ -1,0 +1,45 @@
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #9b9b9b;
+    margin: 0;
+    padding: 20px;
+}
+
+
+#auth, #quiz {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    width: 300px;
+   
+}
+
+
+button {
+    margin-top: 10px;
+}
+
+
+.correct {
+    background-color: lightgreen;
+}
+
+
+.incorrect {
+    background-color: lightcoral;
+}
+
+
+#feedback {
+    margin-top: 20px;
+}
+
+
+
+
